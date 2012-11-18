@@ -32,3 +32,10 @@ The Format is as below;
   
   
   E.g. for f[4,16], the output is “4 Buzz Fizz Bazz 8 Fizz Buzz Bazz Fizz 13 14 FizzBuzz 16”.
+
+=======
+online_test
+===========
+
+Online test - fizz buzz series
+>>>>>>> 08839c4cc4d35fb187f0d5ed84b7a29650cc4383
