@@ -6,5 +6,5 @@ include("class.series.php");
 $objSeries			=	new number_series();
 
 //call function to display FizzBuzz series;
-$objSeries->fizzBuzzSeries(0, 31); 
+$objSeries->fizzBuzzSeries(4, 30); 
 ?>
