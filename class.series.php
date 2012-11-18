@@ -12,7 +12,7 @@ class number_series{
 
 	/*
 	Purpose 	: Function used to display Fizz Buzz series for an integer range 
-	Parameters 	: starting interger,ending integer,type(type = 1 = > FizzBuzz Series; type = 2 = > FizzBuzzBazz Series )
+	Parameters 	: starting interger,ending integer
 	
 	Eg: function(12,15)
 	Output : Fizz 13 14 FizzBuzz
@@ -52,7 +52,13 @@ class number_series{
 	
 		}
 	}	
-		
+	/*
+	Purpose 	: Function used to display Fizz Buzz Bazz series for an integer range 
+	Parameters 	: starting interger,ending integer
+	
+	Eg: function(4,11)
+	Output : 4 Buzz Fizz Bazz 8 Fizz Buzz Bazz
+	*/	
 	public function fizzBuzzBazzSeries($start_no, $end_no){
 		
 		//set status to 0 on each loop
